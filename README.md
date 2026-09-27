@@ -208,10 +208,6 @@ An episode is flagged as a successful docking when the Deputy satisfies all the 
 
 ---
 
-## License
 
-Distributed under the MIT License. See LICENSE for more information.
-
-```
 
 ```
