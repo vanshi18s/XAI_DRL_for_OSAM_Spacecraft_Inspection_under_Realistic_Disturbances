@@ -1,4 +1,4 @@
-```markdown
+
 # 6-DOF Satellite Proximity Operations & Docking under Realistic Disturbances
 
 A high-fidelity **Gymnasium** environment and **Deep Reinforcement Learning (DRL)** framework designed for Autonomous Satellite Proximity Operations, Inspection, and Docking (On-Orbit Servicing, Assembly, and Manufacturing — **OSAM**).
