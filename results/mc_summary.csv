@@ -1,0 +1,13 @@
+method,level,rta,success_pct,koz_viol,sun_viol,min_range_m,rta_trans_pct,duty,dv_mean,dv_std,time_mean
+PD baseline,1,False,100.0,0,0,14.96,0.0,0.23,2.67,0.35,63.2
+PD baseline,1,True,100.0,0,0,14.97,39.87,0.19,2.19,0.38,66.8
+PD baseline,2,False,100.0,0,0,11.95,0.0,0.2,3.59,0.14,100.26
+PD baseline,2,True,100.0,0,0,13.12,26.96,0.19,3.46,0.3,102.06
+PD baseline,3,False,84.0,8,1,2.98,0.0,0.14,3.91,0.22,149.95
+PD baseline,3,True,100.0,0,0,5.82,21.99,0.14,4.3,0.65,163.66
+PPO residual,1,False,100.0,0,0,14.96,0.0,0.23,2.7,0.46,68.72
+PPO residual,1,True,100.0,0,0,14.95,39.13,0.19,2.22,0.49,71.34
+PPO residual,2,False,96.0,0,0,11.99,0.0,0.2,3.55,0.26,97.79
+PPO residual,2,True,96.0,0,0,13.13,27.09,0.19,3.42,0.38,99.65
+PPO residual,3,False,84.0,8,1,2.99,0.0,0.14,3.93,0.48,154.74
+PPO residual,3,True,100.0,0,0,5.37,22.15,0.15,4.27,0.63,162.92

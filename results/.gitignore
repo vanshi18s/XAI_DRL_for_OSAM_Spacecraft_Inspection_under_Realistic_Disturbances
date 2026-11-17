@@ -1,0 +1,15 @@
+# Environments
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: Ignore large tensorboard logs or model zips if they exceed GitHub's 100MB limit
+# tb/
+# satellite_tensorboard/
+# models/*.zip
